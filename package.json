@@ -1,0 +1,20 @@
+{
+  "name": "h2k3number_guessing_game",
+  "version": "2.0.3",
+  "description": "This is cli based number guessing game",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "h2k3number_guessing_game": "^2.0.1",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
